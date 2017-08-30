@@ -2,6 +2,7 @@
 
 1. Jenis : Gauge Echart
 2. Option : 
+
 A. Tooltip : formatter (string, function) -> Formatter dari layer floating tooltip yang mendukung template string dan fungsi callback.
 B. Toolbox : feature (object) -> Item konfigurasi untuk setiap alat.
 C. Toolbox : feature (object) ; restore (object) -> untuk mengembalikan item konfigurasi.
