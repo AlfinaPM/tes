@@ -1,6 +1,5 @@
-# tes
-abc
 #Gauge Echart#
+
 1. Jenis : Gauge Echart
 2. Option : 
 >Tooltip : formatter (string, function) -> Formatter dari layer floating tooltip yang mendukung template string dan fungsi callback.
